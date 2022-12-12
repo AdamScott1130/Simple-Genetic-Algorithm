@@ -7,3 +7,5 @@ Tatiana Olenciuc
 Saitan Taneja
 Alex Lau
 Pranav Patel
+
+The design document contains all of the code because the design document was submitted to Turnitin.
